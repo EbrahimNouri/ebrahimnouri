@@ -20,9 +20,9 @@ public class EbrahimNouri {
 
 - ☕ Java Backend Engineer (primary stack)
 - 🐍 Python for ML, automation and tooling
-- ⚙️ Passionate about scalable systems & clean architecture
-- 🤖 Interested in Machine Learning integration in backend systems
-- 🧠 Focused on writing production-level code, not just scripts
+- ⚙️ Focused on scalable backend systems & clean architecture
+- 🤖 Interested in ML integration in real-world systems
+- 🧠 Writing production-level code, not just prototypes
 
 ---
 
@@ -35,7 +35,7 @@ public class EbrahimNouri {
 **Tools & Infra:**
 - Git, Linux
 - REST APIs
-- Databases (SQL / NoSQL)
+- SQL / NoSQL Databases
 
 ---
 
@@ -52,20 +52,37 @@ public class EbrahimNouri {
 
 ---
 
+## 🔒 Private & Public Activity
+
+✔️ GitHub profile includes private contributions (if enabled in settings)  
+✔️ Activity graph reflects overall contribution behavior  
+✔️ Focused on real-world backend & ML systems (not only public repos)
+
+---
+
 ## ⚡ Coding Activity Snapshot
 
-- ☕ Java → Backend APIs, system design, scalable services
-- 🐍 Python → ML models, automation scripts, data processing
-- 🎯 Focus → Performance, clean code, real-world systems
+- ☕ Java → Backend APIs, microservices, system design
+- 🐍 Python → ML pipelines, automation, data processing
+- 🎯 Focus → Performance, scalability, clean architecture
 
 ---
 
 ## 🧠 What I care about
 
-- Writing maintainable backend systems
-- Understanding system design deeply
-- Bridging ML with real-world applications
-- Building things that actually scale
+- Designing scalable backend systems
+- Writing maintainable production code
+- Bridging ML with backend engineering
+- Building systems that actually scale in real environments
+
+---
+
+## 📌 Current Focus
+
+- Java backend architecture (Spring ecosystem)
+- ML integration in backend systems
+- System design & performance optimization
+- Real-world production engineering
 
 ---
 
