@@ -1,35 +1,36 @@
 # Hi there 👋 I'm Ebrahim Nouri
 
-```python
-class Developer:
+```java
+public class Developer {
 
-    name = "Ebrahim Nouri"
+    String name = "Ebrahim Nouri";
 
-    languages = ["Python", "Java"]
+    String primaryLanguage = "Java";
 
-    interests = [
-        "Machine Learning",
-        "Backend Development",
-        "AI",
-        "Data Science"
-    ]
+    String[] secondarySkills = {
+            "Python",
+            "Machine Learning",
+            "Backend Development"
+    };
 
-    def current_focus():
-        return "Building things and learning continuously"
+    String currentFocus() {
+        return "Building scalable systems and learning continuously";
+    }
+}
 ```
 
 ## 🚀 About Me
 
-- 🐍 Primarily working with **Python**
-- ☕ Building with **Java**
+- ☕ Primarily building with **Java**
+- 🐍 Working with **Python** for ML and automation
 - 🤖 Interested in **Machine Learning & AI**
-- 🛠 Enjoy backend systems and solving problems
+- ⚙️ Passionate about backend systems and engineering
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -47,11 +48,11 @@ class Developer:
 
 ## 🎯 Current Focus
 
-- Machine Learning
 - Backend Engineering
-- Building useful projects
-- Learning new technologies
+- Java Ecosystem
+- Machine Learning
+- Building useful systems
 
 ---
 
-> "Stay curious. Build things."
+> Build systems. Solve problems. Keep learning.
