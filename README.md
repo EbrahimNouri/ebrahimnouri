@@ -1,58 +1,72 @@
 # Hi there 👋 I'm Ebrahim Nouri
 
 ```java
-public class Developer {
+public class EbrahimNouri {
 
-    String name = "Ebrahim Nouri";
+    String role = "Backend Engineer";
 
     String primaryLanguage = "Java";
 
-    String[] secondarySkills = {
-            "Python",
-            "Machine Learning",
-            "Backend Development"
-    };
+    String secondaryLanguage = "Python";
 
-    String currentFocus() {
-        return "Building scalable systems and learning continuously";
-    }
+    String focus = "Scalable backend systems, ML integration, clean architecture";
+
 }
 ```
 
+---
+
 ## 🚀 About Me
 
-- ☕ Primarily building with **Java**
-- 🐍 Working with **Python** for ML and automation
-- 🤖 Interested in **Machine Learning & AI**
-- ⚙️ Passionate about backend systems and engineering
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ebrahimnouri&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimnouri&layout=compact&theme=tokyonight)
-
-## 🔥 Contribution Streak
-
-![Streak](https://streak-stats.demolab.com?user=ebrahimnouri&theme=tokyonight)
-
-## 🎯 Current Focus
-
-- Backend Engineering
-- Java Ecosystem
-- Machine Learning
-- Building useful systems
+- ☕ Java Backend Engineer (primary stack)
+- 🐍 Python for ML, automation and tooling
+- ⚙️ Passionate about scalable systems & clean architecture
+- 🤖 Interested in Machine Learning integration in backend systems
+- 🧠 Focused on writing production-level code, not just scripts
 
 ---
 
-> Build systems. Solve problems. Keep learning.
+## 💻 Tech Stack
+
+**Core:**
+- Java (Spring / Backend Systems)
+- Python (ML / Automation)
+
+**Tools & Infra:**
+- Git, Linux
+- REST APIs
+- Databases (SQL / NoSQL)
+
+---
+
+## 📊 GitHub Activity
+
+### 🔥 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ebrahimnouri&show_icons=true&theme=tokyonight)
+
+### 📌 Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimnouri&layout=donut&theme=tokyonight)
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebrahimnouri&theme=tokyo-night)
+
+---
+
+## ⚡ Coding Activity Snapshot
+
+- ☕ Java → Backend APIs, system design, scalable services
+- 🐍 Python → ML models, automation scripts, data processing
+- 🎯 Focus → Performance, clean code, real-world systems
+
+---
+
+## 🧠 What I care about
+
+- Writing maintainable backend systems
+- Understanding system design deeply
+- Bridging ML with real-world applications
+- Building things that actually scale
+
+---
+
+> "Simple code. Scalable systems. Real impact."
