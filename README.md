@@ -1,6 +1,6 @@
 # Ebrahim Nouri
 
-Backend Engineer (Java-first)  
+Backend Engineer
 Focused on building scalable and maintainable backend systems.
 
 ---
