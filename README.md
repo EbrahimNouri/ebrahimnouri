@@ -1,71 +1,71 @@
 # Ebrahim Nouri
 
-**Backend Engineer · Java · Python · Machine Learning**
+### Backend Engineer | Java | Python | Machine Learning
 
-Building scalable backend systems and experimenting with machine learning.
-
----
-
-## About
-
-* Backend development with **Java**
-* Python for **Machine Learning & Automation**
-* Interested in **System Design & Distributed Systems**
-* Building production-oriented software
+I build backend systems with a focus on clean architecture, scalability, and real-world performance.
 
 ---
 
-## Focus Areas
+## About Me
 
-* Java / Spring
-* Backend Architecture
-* API Design & Performance
-* Machine Learning
-* Distributed Systems
-
----
-
-## Developer Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimnouri&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimnouri&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+* Backend Engineer with **Java** as my primary language
+* Building APIs and backend services for production environments
+* Using **Python** for Machine Learning and automation
+* Interested in **System Design, Distributed Systems & AI**
+* Always learning, building, and experimenting
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimnouri&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## Code
+## Tech Stack
 
 ```text
-Primary      Java
-ML / AI      Python
-Database     SQL
-Architecture Backend / Distributed Systems
+Backend        Java · Spring · REST APIs
+Languages      Java · Python · SQL
+Architecture   System Design · Distributed Systems
+Database       SQL Server · MySQL
+AI / ML        Python · NumPy · PyTorch · scikit-learn
+Tools          Git · Maven · Docker · Linux
 ```
 
 ---
 
-## Work Approach
+## GitHub Stats
 
-I focus on systems that are:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimNouri&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimNouri&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+</p>
 
-* Clean
-* Maintainable
-* Scalable
-* Production-ready
+---
+
+## Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbrahimNouri&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## What I Build
+
+```text
+Backend Systems       ████████████████████
+Java Development      ███████████████████
+API Engineering       ██████████████████
+System Design         ███████████████
+Machine Learning      ████████████
+```
+
+---
+
+## Currently Exploring
+
+**Machine Learning · Reinforcement Learning · AI Systems · System Design**
 
 ---
 
 ## GitHub
 
-github.com/ebrahimnouri
+[github.com/EbrahimNouri](https://github.com/EbrahimNouri)
 
 > Simple systems. Real impact.
