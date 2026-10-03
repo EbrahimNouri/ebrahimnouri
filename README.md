@@ -52,8 +52,8 @@ Tools          Git · Maven · Docker · Linux
 Backend Systems       ████████████████████
 Java Development      ███████████████████
 API Engineering       ██████████████████
-System Design         ███████████████
-Machine Learning      ████████████
+System Design         ███████████████████
+Machine Learning      ██████████████████
 ```
 
 ---
