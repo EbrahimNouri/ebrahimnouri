@@ -19,10 +19,10 @@ I build backend systems with a focus on clean architecture, scalability, and rea
 ## Tech Stack
 
 ```text
-Backend        Java · Spring · REST APIs
-Languages      Java · Python · SQL
+Backend        Java · Spring · REST APIs · GraphQL · FastAPI
+Languages      Java · Python · SQL · Bash
+Databases      SQL Server · MySQL · NoSQL
 Architecture   System Design · Distributed Systems
-Database       SQL Server · MySQL
 AI / ML        Python · NumPy · PyTorch · scikit-learn
 Tools          Git · Maven · Docker · Linux
 ```
