@@ -1,42 +1,71 @@
 # Ebrahim Nouri
 
-Backend Engineer
-Focused on building scalable and maintainable backend systems.
+**Backend Engineer · Java · Python · Machine Learning**
+
+Building scalable backend systems and experimenting with machine learning.
 
 ---
 
 ## About
 
-- Backend development with Java as primary language
-- Python used for machine learning and automation tasks
-- Interest in system design and distributed architectures
-- Experience in building production-oriented backend services
+* Backend development with **Java**
+* Python for **Machine Learning & Automation**
+* Interested in **System Design & Distributed Systems**
+* Building production-oriented software
 
 ---
 
 ## Focus Areas
 
-- Backend engineering (Java / Spring ecosystem)
-- System design and scalable architectures
-- API design and performance optimization
-- Machine learning integration in backend systems
+* Java / Spring
+* Backend Architecture
+* API Design & Performance
+* Machine Learning
+* Distributed Systems
+
+---
+
+## Developer Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimnouri&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimnouri&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimnouri&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## Code
+
+```text
+Primary      Java
+ML / AI      Python
+Database     SQL
+Architecture Backend / Distributed Systems
+```
 
 ---
 
 ## Work Approach
 
-I focus on designing systems that are:
-- clean
-- maintainable
-- scalable
-- production-ready
+I focus on systems that are:
+
+* Clean
+* Maintainable
+* Scalable
+* Production-ready
 
 ---
 
-## Links
+## GitHub
 
-GitHub: github.com/ebrahimnouri
-
----
+github.com/ebrahimnouri
 
 > Simple systems. Real impact.
